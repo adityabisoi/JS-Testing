@@ -1,2 +1,2 @@
 # Testing-in-JS
-An implementation Unit, Integration and e2e testing in JavaScript
+An implementation of Unit, Integration and e2e testing in JavaScript
